@@ -17,10 +17,16 @@ const About = () => {
         "(University) The website created to encourage the awareness of oral health and disease for adults and children. Made by html5, Css3, Bootstrap and JavaScript.",
     },
     {
-      title: "City Weather",
+      title: "Food Delivery App",
       year: 2023,
       description:
-        "(Personal) City Weather Displayer created with the help of OpenWeather API, Node.js and Express.js.",
+        "(Personal) This React Native Application is been created by using Expo CLI , Sanity.io, Tailwindcss, Redux Toolkit.",
+    },
+    {
+      title: "Hackathon Project",
+      year: 2024,
+      description:
+        "(Personal) Fullstack Responsive MERN Website social hub with Auth, Likes, Dark Mode and awareness to stray animals and their help platform along with pet shop and donations. ",
     },
     {
       title: "Horizon Pathology",
