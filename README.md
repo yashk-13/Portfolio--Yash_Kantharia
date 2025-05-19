@@ -1,5 +1,6 @@
-# Checkout it on vercel. :)
-https://portfolio-yashkantharia-cn89o27pz-yash-kantharias-projects.vercel.app/
+# Checkout :)
+https://drive.google.com/file/d/1MFr97gK7O2WpAM54ev7AAnQ0aNo8F0y_/view?usp=drivesdk
+
 # Portfolio Project
 
 This is a portfolio project by Yash Kantharia, showcasing my skills and projects.
